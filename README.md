@@ -115,5 +115,4 @@ sample_B     0            8            31
 ## Notes
 
 - All visualization scripts produce publication-ready figures; color palettes and theme settings can be adjusted within each script.
-- DESeq2 scripts require raw (non-normalized) integer count data — do not use TPM, FPKM, or pre-normalized values as input.
 - Wilcoxon tests are non-parametric and appropriate for small sample sizes or non-normally distributed data.
